@@ -1,0 +1,17 @@
+
+
+.container {
+    height: auto;
+    width: 95% !important;
+    min-width: 95%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    height: 70%;
+    overflow: scroll;
+    align-items: stretch;
+}
+
+.row {
+    width: 100%;
+}
